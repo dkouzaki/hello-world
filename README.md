@@ -1,2 +1,3 @@
 # hello-world
-description-hello
+初めまして
+GitHubで何ができるか模索中
